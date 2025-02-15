@@ -1,2 +1,2 @@
 # RedzHub-Script
-Latest Redz hub script works on all executor ✅
+loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/BloxFruits/refs/heads/main/Source.lua"))()
